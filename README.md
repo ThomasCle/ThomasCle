@@ -3,7 +3,7 @@
 
 <hr style="padding:1em;">
 
-- 🔭 I’m currently working on [Søstrene Grene's iOS app](https://apps.apple.com/app/id1574504323)
+- 🔭 I’m currently working on **e-commerce apps at [Vertica A/S](https://vertica.dk)**
 
 - 🌱 I’m currently learning **Rust 😎**
 
