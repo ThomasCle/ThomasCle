@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love iOS, beer, photography and road-cycling 📱🍺📸🚴🏻‍♂️**
 
-<div style="text-align:center;">
+<div style="display: flex;justify-content: center;">
 <!-- my-badges start -->
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;added&quot;." title="My favorite word is &quot;added&quot;." width="64"></a>
