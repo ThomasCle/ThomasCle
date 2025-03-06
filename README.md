@@ -11,11 +11,8 @@
 
 - ⚡ Fun fact **I love iOS, beer, photography and road-cycling 📱🍺📸🚴🏻‍♂️**
 
-<p align="center">
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="53" height="53"  /> 
-  <img src="https://developer.apple.com/swift/images/swift-logo.svg" width="50" height="50" /> 
-  <img src="https://icon.icepanel.io/Technology/svg/Objective-C.svg" width="50" height="50" /> 
-</p>
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <hr style="padding:1em;">
 <h3 align="center">Connect with me:</h3>
