@@ -27,11 +27,10 @@
 <!-- my-badges end -->  
 </div>
 
-
 <hr style="padding:1em;">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/thomascle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomascle" height="30" width="40" /></a>
+<a rel="me" href="https://mastodon.social/@ThomasCle" target="blank"><img align="center" src="https://github.com/user-attachments/assets/050633db-3f78-4a97-8941-82275d33d1d8" alt="thomascle" height="30" /></a>
 <a href="https://linkedin.com/in/thomascle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomascle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1118969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1118969" height="30" width="40" /></a>
 <a href="https://instagram.com/kalhoejphotography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalhoejphotography" height="30" width="40" /></a>
