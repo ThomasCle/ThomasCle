@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 6 times)\n2. update (used 5 times)\n3. readme.md (used 5 times)\n4. create (used 2 times)\n5. changed (used 2 times)",
+    "body": "My favorite commit message words are:\n\n1. added (used 9 times)\n2. update (used 5 times)\n3. readme.md (used 5 times)\n4. initial (used 3 times)\n5. commit (used 3 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,14 +59,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/11086f70df6f9a77d883f716e17e821347f6da74\">11086f7</a>\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/60aa297ece6954427ee43537f31042a68aa9aabd\">60aa297</a>\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/89c291aa8bdfea33b78a0decf0240e2b0f98f528\">89c291a</a>\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/5bff1148c9357841300554f6d1b6e6d25787c035\">5bff114</a>\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/432ff878e2c1b56053e2d7cd1a547bb53a47aecf\">432ff87</a>\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/e9f03b8da5e89cb35f7897dd96c8b58777a8f139\">e9f03b8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/events/commit/e362efaced3fca51e2408575bf920cedfc25a667\">e362efa</a>\n- <a href=\"https://github.com/ThomasCle/events/commit/cbf002a378bab910b8aeb1269bc03f4ba4355a12\">cbf002a</a>\n- <a href=\"https://github.com/ThomasCle/events/commit/6cafddb66228bd735c183a15160853bac86fe8a2\">6cafddb</a>\n- <a href=\"https://github.com/ThomasCle/events/commit/cc7920a9a081cee33c6c660a9a549bcc6c15b509\">cc7920a</a>\n- <a href=\"https://github.com/ThomasCle/events/commit/a77661342f337d8d967322dbe37360bb597b3db3\">a776613</a>\n- <a href=\"https://github.com/ThomasCle/events/commit/c5645cb261d66d040749eaec372c110fb6906526\">c5645cb</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/60aa297ece6954427ee43537f31042a68aa9aabd\">60aa297</a>: chore: Now for zeh reals... 🤦🏻‍♂️",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/events/commit/e362efaced3fca51e2408575bf920cedfc25a667\">e362efa</a>: chore: Added Swift Package Index badges.",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -75,5 +75,26 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/89c291aa8bdfea33b78a0decf0240e2b0f98f528\">89c291a</a>: Fixing center for zeh reals 🙃\n- <a href=\"https://github.com/ThomasCle/ThomasCle/commit/5bff1148c9357841300554f6d1b6e6d25787c035\">5bff114</a>: Fixed badge alignment.",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ThomasCle/events/commit/a77661342f337d8d967322dbe37360bb597b3db3\"><strong>a</strong>77661342f337d8d967322dbe37360bb597b3db3</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/ThomasCle/events\">ThomasCle/events</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ThomasCle/events/commit/f6c68ae0e87926319523077f481e2718a08d4ab0\">f6c68ae</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

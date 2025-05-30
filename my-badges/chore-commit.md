@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ThomasCle/ThomasCle/commit/60aa297ece6954427ee43537f31042a68aa9aabd">60aa297</a>: chore: Now for zeh reals... 🤦🏻‍♂️
+- <a href="https://github.com/ThomasCle/events/commit/e362efaced3fca51e2408575bf920cedfc25a667">e362efa</a>: chore: Added Swift Package Index badges.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
