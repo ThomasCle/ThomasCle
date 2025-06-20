@@ -45,7 +45,7 @@
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
-    "body": "* <a href=\"https://github.com/XcodesOrg/xcodes/issues/260\">👍</a>",
+    "body": "* <a href=\"https://github.com/XcodesOrg/xcodes/issues/260\">👍</a>\n* <a href=\"https://github.com/mozilla/uniffi-rs/issues/2486\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
