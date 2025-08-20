@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ThomasCle/ThomasCle/commit/89c291aa8bdfea33b78a0decf0240e2b0f98f528">89c291a</a>: Fixing center for zeh reals 🙃
-- <a href="https://github.com/ThomasCle/ThomasCle/commit/5bff1148c9357841300554f6d1b6e6d25787c035">5bff114</a>: Fixed badge alignment.
+- <a href="https://github.com/ThomasCle/events/commit/8be8721389c2b7fe225be61add54c2a323dc790a">8be8721</a>: fix: Public constructor 😅
+- <a href="https://github.com/ThomasCle/events/commit/c88e7a28445c116dfb257faba3ac687b4592f339">c88e7a2</a>: fix: Order of events per subscriber and unit test improvements.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

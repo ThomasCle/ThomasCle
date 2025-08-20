@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ThomasCle/events/commit/e362efaced3fca51e2408575bf920cedfc25a667">e362efa</a>: chore: Added Swift Package Index badges.
+- <a href="https://github.com/ThomasCle/events/commit/54c8b960147e2df1b04aa7c46f0128f837e751b6">54c8b96</a>: chore: Added Swift Package Index manifest file to support DocC.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
